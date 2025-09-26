@@ -1,0 +1,10 @@
+# requirements.txt
+# Dependencies for House Price Prediction demo
+# Run: pip install -r requirements.txt
+
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
